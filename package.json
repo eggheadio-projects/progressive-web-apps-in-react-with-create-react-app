@@ -1,7 +1,7 @@
 {
   "slug": "progressive-web-apps-in-react-with-create-react-app",
   "private": true,
-  "repository": "    ",
+  "repository": "https://github.com/eggheadio-projects/progressive-web-apps-in-react-with-create-react-app",
   "workspaces": [
     "lessons/*"
   ],
